@@ -9,39 +9,55 @@
 .box1 {
     width: 10vw;
     background-color: blue;
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box2 {
     width: 10vw;
-    background-color: ivory;
+    background-color: rgb(26, 10, 15);
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box3 {
     width: 10vw;
     background-color: hotpink;
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box4 {
     width: 10vw;
     background-color: purple;
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box5 {
     width: 10vw;
     background-color: red;
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box6 {
     width: 10vw;
-    background-color: orangered;
+    background-color:grey;
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box7 {
     width: 10vw;
-    background-color: orange;
+    background-color: purple;
+    margin: 30PX;
+    padding: 100px;
 }
 
 .box8 {
     width: 10vw;
     background-color: yellow;
+    margin: 30PX;
+    padding: 100px;
 }
